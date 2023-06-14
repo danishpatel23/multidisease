@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'multidisease'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2F25530C96B4057B053C591FEE896DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7C2595123E240F7B9A0FF67045E49EA }}
